@@ -91,4 +91,4 @@ local_settings.py
 db.sqlite3
 
 **/migrations/
-digicommerce/settings.py
+# digicommerce/settings.py
